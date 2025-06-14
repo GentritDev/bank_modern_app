@@ -5,7 +5,7 @@ A modern, responsive landing page UI for a payment service, built with React and
 ## 🚀 Demo
 
 
-* Tutorial Video: [Next Generation Payment UI Tutorial]()
+* Demo: [Next Generation Payment UI Tutorial](https://bank-modern-ui.netlify.app/)
 
 ## 📄 Project Overview
 
